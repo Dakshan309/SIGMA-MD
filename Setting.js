@@ -3,28 +3,29 @@ if (fs.existsSync('config.env')) require('dotenv').config({ path: __dirname+'/co
 
 
 //═══════[Required Variables]════════,[Make sure you put all values in "" , '']\\
-global.owner = process.env.OWNER_NUMBER || '923466319114' ; // Add Your Number without +
+global.owner = process.env.OWNER_NUMBER || '94719252880' ; // Add Your Number without +
 global.mongodb = process.env.MONGODB_URI || "mongodb+srv://Maher-Zubair:SIGMA-MD@zubi.9g6b16y.mongodb.net/?retryWrites=true&w=majority&appName=AtlasApp" ; // put mongodb key here
 global.port=5000  ;
 global.audio = '' ; 
 global.video = '' ;
 global.blockJids = process.env.BLOCK_JID ||'120363169665426586@g.us' ;
 global.allowJids = process.env.ALLOW_JID ||'120363169665426586@g.us' ;
-global.email = 'HELP_SIGMA-MD@outlook.com' ; 
+global.email = 'dakshanbhashana01@gmail.com' ; 
 global.github = 'https://github.com/Maher-Zubair/SIGMA-MD' ;
 global.location = 'Lahore Pakistan' ;
 global.timezone  = process.env.TIME_ZONE || 'Asia/Karachi' //add correct timezone or leave it same , otherwise you get erros
 global.gurl = 'https://www.youtube.com/@InnoxentTech?sub_confirmation=1' ; 
-global.sudo =  process.env.SUDO || "923466319114" ; // Do not change it
-global.devs = "923466319114"; //Dont change it From here
+global.sudo =  process.env.SUDO || "94702845660" ; // Do not change it
+global.devs = "94719252880"; //Dont change it From here
 global.mztit = process.env.MZTIT ||"🅼♥︎❚❚♥︎🆉", // add your title here
-global.Gname = process.env.GNAME ||"sɪɢᴍᴀ ᴹᴰ-sᴜᴘᴘᴏʀᴛ",
+global.Gname = process.env.GNAME ||"𝙼𝚄𝚂𝙸𝙲 𝙱𝙾𝚃 𝙶𝚁𝙾𝚄𝙿 01",
 global.zyt = process.env.ZYT || 'https://www.youtube.com/@InnoxentTech?sub_confirmation=1',
-global.waUrl = process.env.WAURL ||"https://chat.whatsapp.com/CmY0THcJCUYEGxLJulhcRV",
+global.waUrl = process.env.WAURL ||"https://chat.whatsapp.com/EbVGM6Nx5ti6jDE70vgmxg",
 global.website = 'http://lnkiy.in/SIGMA-MD-WEB' ; 
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/03e49e6e2057568db8926.jpg' ;
 module.exports = {
-  sessionName: process.env.SESSION_ID || '',      //Put Your Session Id Here
+  sessionName: process.env.SESSION_ID || 'SIGMA-MD;;;CaranoMeryl
+',      //Put Your Session Id Here
   botname: process.env.BOT_NAME || 'sɪɢᴍᴀ ᴹᴰ',  // add the botname you want
   ownername:  process.env.OWNER_NAME || `ᴍᴀʜᴇʀ ᴢᴜʙᴀɪʀ`, // add your name
   author:  process.env.PACK_AUTHER || 'ᴍᴀʜᴇʀ ᴢᴜʙᴀɪʀ', 
@@ -35,14 +36,14 @@ module.exports = {
   alwaysonline: process.env.ALWAYS_ONLINE || 'true', // it will show always online, false it if you dont want
   antifake :   process.env.FAKE_COUNTRY_CODE ||'212',
   readmessage: process.env.READ_MESSAGE || 'true', // it will read all your messages, false it if you dont want
-  HANDLERS: process.env.PREFIX || '.',
-  warncount : process.env.WARN_COUNT || 2,
+  HANDLERS: process.env.PREFIX || '-',
+  warncount : process.env.WARN_COUNT || 3,
   disablepm: process.env.DISABLE_PM || "false", // if true it will disable your pm
   MsgsInLog:process.env.MSGS_IN_LOG ||'false',
   pmMsgsInLog:process.env.PM_MSGS_IN_LOGS ||'false',
   levelupmessage: process.env.LEVEL_UP_MESSAGE || 'true', 
   antilink: process.env.ANTILINK_VALUES || 'chat.whatsapp.com',
-  antilinkaction: process.env.BRANCH || 'remove',
+  antilinkaction: process.env.BRANCH || 'delete',
   BRANCH: process.env.BRANCH || 'Main',
   HEROKU_APP_NAME: process.env.HEROKU_APP_NAME,
   HEROKU_API_KEY: process.env.HEROKU_API_KEY,
