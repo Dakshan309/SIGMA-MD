@@ -18,10 +18,11 @@
     
     
   <a href="https://github.com/Maher-Zubair/SIGMA-MD/stargazers"> 
-    <img src="https://img.shields.io/github/stars/Maher-Zubair/SIGMA-MD?style=social">
+     <img src="https://img.shields.io/github/stars/Maher-Zubair/SIGMA-MD">
 
-  <a href="https://github.com/Maher-Zubair/SIGMA-MD"> 
-    <img src="https://img.shields.io/github/watchers/Maher-Zubair/SIGMA-MD">
+  <a href="https://github.com/Maher-Zubair/SIGMA-MD/watchers"> 
+     <img src="https://img.shields.io/github/watchers/Maher-Zubair/SIGMA-MD">
+
   </a>
 
 </p>
@@ -29,9 +30,10 @@
 
 <p align="center">
 <a href="https://github.com/Maher-Zubair"><img title="Owner" src="https://img.shields.io/badge/Owner-Maher Zubair-black.svg?style=for-the-badge&logo=github" width="173px" height="29"></a>
+  <a href="https://github.com/Maher-Zubair/SIGMA-MD/blob/main/LICENSE"><img title="Owner" src="https://img.shields.io/github/license/Maher-Zubair/SIGMA-MD?style=flat-square&color=black&link=https%3A%2F%2Fgithub.com%2FMaher-Zubair%2FSIGMA-MD%2Fblob%2Fmain%2FLICENS" width="173px" height="29"></a>
 
- <a href="https://github.com/Maher-Zubair/SIGMA-MD/blob/main/LICENSE">
-<img src='https://img.shields.io/github/license/Maher-Zubair/SIGMA-MD' width="143px" height="27">
+
+
 <p align="center"> 
     <a aria-label="Subscribe Me" href="https://www.youtube.com/@InnoxentTech?sub_confirmation=1" target="_blank">
    <img alt="whatsapp" src="https://img.shields.io/badge/Subscribe My Yt-red?style=for-the-badge&logo=youtube&logoColor=white" />
@@ -132,12 +134,13 @@
 1. ***Star⭐ The Repository Must***
 2. ***Click [FORK](https://github.com/Maher-Zubair/SIGMA-MD/fork)***
 3. ***Get Your [SESSION ID](https://sessions.maher-zubair.tech)***
-4. ***Get Your [Mongodb](https://account.mongodb.com/) Url***
-5. ***Deploy on [Heroku](https://maher-zubair.tech/Bot/heroku%20deploy)***
-6. ***Deploy on [Replit](https://maher-zubair.tech/Bot/replit%20deploy)***
-7. ***Deploy on [Codespace](https://maher-zubair.tech/Bot/codespace)***
-8. ***Watch [Tutorials](https://maher-zubair.tech/Bot/Tutorials) If You Need Help***
-9. ***Install [External Plugins](https://github.com/Maher-Zubair/SIGMA-MD_Plugins)***
+4. ***Get Your [Mongodb](https://www.mongodb.com/cloud/atlas/register) Url***
+5. ***Deploy on [Heroku](https://maher-zubair.tech/Bot/deploy/heroku)***
+6. ***Deploy on [Replit](https://maher-zubair.tech/Bot/deploy/replit)***
+7. ***Deploy on [Railway](https://maher-zubair.tech/Bot/deploy/railway)***
+8. ***Deploy on [Codespace](https://maher-zubair.tech/Bot/deploy/codespace)***
+9. ***Watch [Tutorials](https://maher-zubair.tech/Bot/Tutorials) If You Need Help***
+10. ***Install [External Plugins](https://github.com/Maher-Zubair/SIGMA-MD_Plugins)***
 ##
 
 - ***Strictly! Use Your Own MongoDB Key, It's DataBase For Bot.***
@@ -163,6 +166,6 @@
 ## ```𝘓𝘦𝘨𝘢𝘭 𝘋𝘪𝘴𝘤𝘭𝘢𝘪𝘮𝘦𝘳```
 
 - *I will only Assist You in Bot Deployment and Hosting, Not in Bot Development*
-- *If You Modify The Bot And Face Any Issue, I will not Responsible Because It is not Possible For Me To Help Everyone*
+- *If Someone Modify My Bot Or Try To Copy It I Will Instantly Give Legal Copy Right Strike And Ban That User Repo And Account*
 - *This Bot is For Fun and Educational Purpose, I will not Responsible If You Spam and And Got Banned*
 - ***Regards [Maher-Zubair](https://github.com/Maher-Zubair)***
