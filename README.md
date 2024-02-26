@@ -11,17 +11,17 @@
 
 <p align="center">
   <a href="https://github.com/Maher-Zubair">
-    <img src="https://img.shields.io/github/followers/Maher-Zubair">
+    <img src="https://img.shields.io/github/followers/Maher-Zubair?style=flat-square&logo=github&color=black">
 
    <a href="https://github.com/Maher-Zubair/SIGMA-MD/fork">
-    <img src="https://img.shields.io/github/forks/Maher-Zubair/SIGMA-MD?label=Fork&style=social">
+    <img src="https://img.shields.io/github/forks/Maher-Zubair/SIGMA-MD?style=flat-square&logo=github&color=black">
     
     
   <a href="https://github.com/Maher-Zubair/SIGMA-MD/stargazers"> 
-     <img src="https://img.shields.io/github/stars/Maher-Zubair/SIGMA-MD">
+     <img src="https://img.shields.io/github/stars/Maher-Zubair/SIGMA-MD?style=flat-square&logo=github&color=black">
 
   <a href="https://github.com/Maher-Zubair/SIGMA-MD/watchers"> 
-     <img src="https://img.shields.io/github/watchers/Maher-Zubair/SIGMA-MD">
+     <img src="https://img.shields.io/github/watchers/Maher-Zubair/SIGMA-MD?style=flat-square&logo=github&color=black">
 
   </a>
 
@@ -29,7 +29,7 @@
 
 
 <p align="center">
-<a href="https://github.com/Maher-Zubair"><img title="Owner" src="https://img.shields.io/badge/Owner-Maher Zubair-black.svg?style=for-the-badge&logo=github" width="173px" height="29"></a>
+<a href="https://github.com/Maher-Zubair"><img title="Owner" src="https://img.shields.io/badge/OWNER-Maher_Zubair-black?style=flat-square&logo=github&label=owner" width="173px" height="29"></a>
   <a href="https://github.com/Maher-Zubair/SIGMA-MD/blob/main/LICENSE"><img title="Owner" src="https://img.shields.io/github/license/Maher-Zubair/SIGMA-MD?style=flat-square&color=black&link=https%3A%2F%2Fgithub.com%2FMaher-Zubair%2FSIGMA-MD%2Fblob%2Fmain%2FLICENS" width="173px" height="29"></a>
 
 
